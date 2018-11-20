@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Local Service</string>
+    <string name="dateString">Show date</string>
+    <string name="timeString">Show time</string>
+    <string name="connectString">Connect</string>
+    <string name="statusText">Disconnected</string>
+    <string name="Connected">Connected</string>
+    <string name="Disconnect">Disconnect</string>
+    <string name="Connect">Connect</string>
+    <string name="Disconnected">Disconnected</string>
+</resources>
